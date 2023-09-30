@@ -1,0 +1,12 @@
+pandas==1.3.3
+numpy==1.21.2
+seaborn
+plotly
+matplotlib
+streamlit
+urlextract
+wordcloud
+regex
+emoji==1.7.0
+nltk
+deep-translator
